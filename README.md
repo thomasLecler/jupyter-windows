@@ -6,3 +6,5 @@ It uses
 Just download and run `install_jupyter.bat` on Windows.
 
 To launch the software, you can use the script `launch-jupyterlab.bat`.
+
+To open Jupyter in a specific repository, you can add ` --notebook-dir="your-repository"`.
